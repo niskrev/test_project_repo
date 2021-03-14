@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Spectral decomposition of the information about latent variables in dynamic macroeconomic models
+description: Web Appendix
 img: about.png # Add image post (optional)
 caption: "A Serious Man (2010)"
 permalink: index.html
