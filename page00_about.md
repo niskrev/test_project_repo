@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Information about the project, website, and links to the paper and SI
+description: Spectral decomposition of the information about latent variables in dynamic macroeconomic models
 img: about.png # Add image post (optional)
 caption: "A Serious Man (2010)"
 permalink: index.html
